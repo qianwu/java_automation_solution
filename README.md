@@ -12,7 +12,7 @@ This is a repository initiated as an automation solution by JAVA
 ## 4. start the automation testing
 # what are the common automation testing tools?
 ## UNIT TESTING: JUnit, TestNG
-### unit test must be followed the program language, for example, JUnit is for JAVA, TestNG is for JAVA；\n
+### unit test must be followed the program language, for example, JUnit is for JAVA, TestNG is for JAVA；
 ### and the Unit test code should be together with the source code 
 ## API TESTING: RestAssured, Postman, SoapUI, Pytest, JMeter
 ### API testing is to test the API interface, the input and output of the API, and the API performance;

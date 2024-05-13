@@ -1,0 +1,7 @@
+api:
+  base_url: https://api.zippopotam.us
+  headers:
+    Content-Type: application/json
+  auth:
+    username: user
+    password: pass

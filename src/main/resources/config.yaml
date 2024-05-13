@@ -1,0 +1,5 @@
+api:
+  base_url: https://api.zippopotam.us
+  auth:
+    username: user
+    password: pass
